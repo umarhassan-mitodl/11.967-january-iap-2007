@@ -6,6 +6,8 @@ description: This resource contains questions on topics hartford economic profil
 file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/8677dd5220d93484c851e916bf18067e_finalreport.pdf
 file_size: 86397
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

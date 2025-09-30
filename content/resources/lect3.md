@@ -6,6 +6,8 @@ description: This resource contains information on topics market analysis, brock
 file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/774e974dfba91f6e83c38d97de0b6170_lect3.pdf
 file_size: 62465
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains table on county data.
 file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/faff12982f4f40bfe9b32b835328a5b7_countydata.pdf
 file_size: 38975
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

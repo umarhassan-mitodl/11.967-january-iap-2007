@@ -2,6 +2,8 @@
 content_type: page
 description: The project section contains the student projects to help in understanding
   the course material.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

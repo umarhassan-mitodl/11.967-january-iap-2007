@@ -6,6 +6,8 @@ description: This resource contains information on topics economic development l
 file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/53e74fa7ae4f5e7ce1ce6e87fe2e9ca0_lect2.pdf
 file_size: 56958
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
