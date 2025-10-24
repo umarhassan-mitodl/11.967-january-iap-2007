@@ -5,8 +5,6 @@ description: This resource contains questions on topics hartford?s retail area, 
 file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/4ac76701b2b02c943842e904c19641c5_assn2.pdf
 file_size: 21889
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

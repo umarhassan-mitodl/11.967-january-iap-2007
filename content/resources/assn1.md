@@ -4,8 +4,6 @@ description: Homework assignment
 file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/913eb088bab354bb20a1cd21a21f8928_assn1.pdf
 file_size: 46336
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

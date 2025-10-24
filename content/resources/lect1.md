@@ -6,8 +6,6 @@ description: This resource contains information on topics local economy, cluster
 file: /courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/b1d2dcbecab2786d6eec610c3d756a0c_lect1.pdf
 file_size: 90552
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
