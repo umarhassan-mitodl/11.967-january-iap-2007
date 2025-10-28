@@ -23,13 +23,13 @@ READINGS
 Economic Data Sources and Profiling the Local and Regional Economy
 {{< tdclose >}}{{< tdopen >}}
 
-Sabety, J. Pari, and V. Carlson. "Using Information to Drive Change: New Ways to Move Urban Markets." *Urban Market Initiative*, July 2004. ([PDF](https://www.brookings.edu/research/using-information-to-drive-change-new-ways-of-moving-markets/))
+Sabety, J. Pari, and V. Carlson. "Using Information to Drive Change: New Ways to Move Urban Markets." *Urban Market Initiative*, July 2004. ({{% resource_link "78e41ac7-45c7-4a57-899d-0c304c7878d5" "PDF" %}})
 
 Reamer, A., and J. Cortright. Chapter 3 in *Socioeconomic Data for Understanding Your Regional Economy.* Newton, MA: Andrew Reamer and Associates, 1998, pp. 23-46.
 
 Mt. Auburn Associates. *A Strategy for Fairhaven's Economic Future.* pp. 8 -10, A1- A8, data tables and figures. (Unpublished report, 1993.)
 
-"[Joint Venture](http://www.jointventure.org/index.php?option=com_content&view=article&id=293:the-2004-index-of-silicon-valley&catid=77:publications-archive&Itemid=348)." In *Joint Venture's 2004 Index for Silicon Valley,* pp. 4-13.
+"{{% resource_link "1ebbe34a-5dcb-4e05-954f-523a885c0328" "Joint Venture" %}}." In *Joint Venture's 2004 Index for Silicon Valley,* pp. 4-13.
 
 Bendavid-Val, A. Chapter 7 in *Regional and Local Economic Analysis for Practitioners.* Westport, CT: Praeger, 1991. ISBN: 0275937518.
 
@@ -51,7 +51,7 @@ Held, J. "Clusters as an Economic Development Tool: Beyond the Pitfalls." *Econo
 Retail and Commercial Real Estate Market Analysis
 {{< tdclose >}}{{< tdopen >}}
 
-Center for Community Economic Development. [*Downtown and Business District Market Analysis*](https://cced.ces.uwex.edu/downtown-and-business-district-economic-development/). Sections 4 (Analyzing Your Trade Area), 5 (Analyzing Local Economics) and 9 (Evaluating Retail Opportunities).
+Center for Community Economic Development. {{% resource_link "ff3f5554-c6a7-4067-b278-95fbb13d2cfd" "*Downtown and Business District Market Analysis*" %}}. Sections 4 (Analyzing Your Trade Area), 5 (Analyzing Local Economics) and 9 (Evaluating Retail Opportunities).
 
 Hammer, Siler, and George Associates. *Brockton Supermarket Study* . (Unpublished report, 1995.)
 
